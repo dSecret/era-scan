@@ -1,0 +1,51 @@
+{
+	"submit":{	
+		"form_rcdl":"form_rcdl",
+		"form_rcdl:tf_dlNO":"DL-0402110149646",
+		"form_rcdl:tf_dob_input":"09-02-1976",
+		"form_rcdl:j_idt35:CaptchaID":"2wcce",
+		"javax.faces.ViewState":"",
+		"javax.faces.source":"form_rcdl:j_idt48",
+		"javax.faces.partial.execute":"@all",
+		"javax.faces.partial.render":"form_rcdl:pnl_show+form_rcdl:pg_show+form_rcdl:rcdl_pnl",
+		"javax.faces.partial.ajax":"true",
+		"form_rcdl:48":"form_rcdl:j_idt48"
+	},
+	"dl":{
+		"javax.faces.partial.ajax":	"true",
+		"javax.faces.source"	:"form_rcdl:tf_dlNO",
+		"javax.faces.partial.execute":"form_rcdl:tf_dlNO",
+		"javax.faces.partial.render":	"form_rcdl:tf_dlNO",
+		"javax.faces.behavior.event":	"valueChange",
+		"javax.faces.partial.event"	:"change",
+		"form_rcdl"	:"form_rcdl",
+		"form_rcdl:tf_dlNO"	:"DL-0402110149646",
+		"form_rcdl:tf_dob_input":"",
+		"form_rcdl:j_idt35:CaptchaID":"",			
+		"javax.faces.ViewState":""
+	},
+	"dob":{
+		"javax.faces.partial.ajax":	"true",
+		"javax.faces.source"	:"form_rcdl:tf_dob",
+		"javax.faces.partial.execute":"form_rcdl:tf_dob",
+		"javax.faces.partial.render":	"form_rcdl:tf_dob",
+		"javax.faces.behavior.event":	"valueChange",
+		"javax.faces.partial.event"	:"change",
+		"form_rcdl:tf_dob_input":"09-02-1976",
+		"javax.faces.ViewState":""
+	},
+	"captcha":{
+		"form_rcdl":"form_rcdl",
+		"form_rcdl:tf_dlNO":"DL-0420110149646",
+		"form_rcdl:tf_dob_input":"09-02-1976",
+		"form_rcdl:j_idt35:CaptchaID":	"",
+		"javax.faces.ViewState":"",
+		"javax.faces.source"	:"form_rcdl:j_idt35:CaptchaID",
+		"javax.faces.partial.event":"blur",
+		"javax.faces.partial.execute":	"form_rcdl:j_idt35:CaptchaID",
+		"javax.faces.partial.render"	:"form_rcdl:j_idt35:CaptchaID",
+		"CLIENT_BEHAVIOR_RENDERING_MODE"	:"OBSTRUSIVE",
+		"javax.faces.behavior.event"	:"blur",
+		"javax.faces.partial.ajax"	:"true"
+	}
+}
